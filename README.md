@@ -1,0 +1,1 @@
+# wiz-cloud-security-challenge
