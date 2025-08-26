@@ -33,9 +33,6 @@ The goal:
 | Month      | Challenge         | Status      | Write-up         |
 |------------|-------------------|-------------|------------------|
 | June 2025  |  Perimeter Leak	 |  Completed  | Coming soon...   |
-| Julu 2025  |  Container Escape |  Not Started| ?                |
+| July 2025  |  Container Escape |  Not Started| ?                |
 | ...        | ...               | ...         | ...              |
 
----
-
-Feel free to fork, star, or contribute. Let’s build a more secure cloud, together!
