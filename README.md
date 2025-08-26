@@ -33,6 +33,6 @@ The goal:
 | Month      | Challenge         | Status      | Write-up         |
 |------------|-------------------|-------------|------------------|
 | June 2025  |  Perimeter Leak	 |  Completed  | Coming soon...   |
-| July 2025  |  Container Escape |  Not Started| ?                |
+| July 2025  |  Container Escape |  Started    | ?                |
 | ...        | ...               | ...         | ...              |
 
